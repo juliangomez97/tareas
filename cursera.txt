@@ -1,0 +1,53 @@
+Trabajo Final Cursera
+
+
+
+	
+
+
+
+
+
+Data Visualization and Communication with Tableau
+Octubre 2020
+
+
+
+
+
+
+
+Castañeda Gomez Julian David
+
+
+
+
+
+
+Our ultimate goal is to help Dognition Company (https://www.dognition.com/) increase the numbers of tests
+ users complete on their website. There are two main ways:
+
+•	Hold current users: Reducing the number of people dropping off the tests
+
+For users subscribe Dognition’s service, they and their dogs can play 20 interactive games by sequence and then get 
+an in-depth analysis report about your dogs’ characteristics. But according to the analysis of Dognition data, many dog 
+owners and dogs don’t complete each test but quit the games after the fourth test – Eye Contact Game. That is, most users
+ only finish the Empathy category of total tests and stop playing the game. The main problem may be the game design; the 
+Communication subcategory games may be a little difficult for the dogs so that they cannot finish the tasks.
+
+•	Attract new users: Increasing the number of whole users
+
+
+Dognition periodically tries offering a “Free Start” promotion to customers that gives the customers the first four 
+tests for free. The hypothesis (or hope) would be that once potential customers get a chance to experience the product 
+first-hand, they will be more likely to buy a subscription. But from the below chart we can see that Free Start users 
+dropped more after the fourth game than No Free Start users. So this promotion strategy is not effective as expected.
+
+
+Dognition may use reminder emails and online advertisement as alternative promotion strategies. In order to better target
+ customers, we need to look at when and where customers tend to play the games. Obviously from the charts, most users play 
+the games during the beginning of a week and during the after-work period (05:00pm-20:00pm); Users are mainly located in 
+United States and from California, North Carolina and New York, Texas and Florida.
+
+
+
